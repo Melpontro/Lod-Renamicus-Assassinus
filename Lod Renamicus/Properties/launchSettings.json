@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Lod Renamicus": {
+      "commandName": "Project",
+      "commandLineArgs": "\"E:\\Ubisoft\\Assassin's Creed II\\Extracted\\DataPC_Firenze.forge\\Extracted\\test\""
+    }
+  }
+}
